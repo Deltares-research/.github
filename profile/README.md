@@ -10,3 +10,12 @@ From the perspective of water, the subsurface and infrastructure, we will be wor
 - Resilient infrastructure.
 
 Managing densely populated and vulnerable areas is complex, which is why we work closely with governments, businesses, other research institutes, universities and NGO’s at home and abroad.
+
+## Governance
+For the governance of this Github organisation, see [GOVERNANCE.md](GOVERNANCE.md).
+
+## Security
+To contact us about security related issues, see [SECURITY.md](SECURITY.md).
+
+## Code of Conduct
+For our code of conduct, see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
