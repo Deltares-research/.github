@@ -19,3 +19,6 @@ To contact us about security related issues, see [SECURITY.md](SECURITY.md).
 
 ## Code of Conduct
 For our code of conduct, see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+## Code of Conduct
+For other questions or support, see [SUPPORT.md](SUPPORT.md).
