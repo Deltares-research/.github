@@ -28,7 +28,7 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email address, without their explicit permission
 * Sharing confidential, sensitive, personal, client, project, partner, or company-sensitive information with unauthorized systems, tools, services, or people
-* Using repository content for unauthorized AI training, fine-tuning, evaluation, automated data collection, scraping, crawling, indexing, or bulk extraction
+* Using repository content for AI training, fine-tuning, evaluation, automated data collection, scraping, crawling, indexing, or bulk extraction in ways that violate applicable licenses, access controls, confidentiality obligations, or other binding agreements
 * Submitting pull requests, issues, commits, reviews, comments, or other contributions created by a fully autonomous AI agent without meaningful human review and accountability
 * Misrepresenting AI-generated or AI-assisted work as fully human-authored when disclosure is required by project or organizational policy
 * Intentionally bypassing security, compliance, governance, repository controls, access controls, or review processes
