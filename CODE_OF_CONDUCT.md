@@ -83,8 +83,8 @@ The following principles apply:
 * Contributions from automated systems with no identifiable human owner will
   be closed, and the associated account, token, or integration may be
   blocked.
-* Deltares contributors must use only AI tools approved for Deltares work,
-  and must not use personal or consumer accounts for Deltares-related work.
+* Deltares contributors must use only AI tools and accounts approved for
+  Deltares work.
 * Contributors must not provide confidential, personal, client, project,
   partner, or company-sensitive information to unauthorized AI tools.
 * Contributors must not submit protected third-party material, generated
